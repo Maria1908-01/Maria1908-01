@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Maria Eduarda Nunes, I was born in Santo André, SP.</p>
+<p align="left">I am Maria Eduarda Nunes, I was born in Santo André, São Paulo..</p>
 
 ###
 
